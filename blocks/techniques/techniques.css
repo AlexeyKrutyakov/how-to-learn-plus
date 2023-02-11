@@ -1,0 +1,8 @@
+.techniques {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  /* разобраться с body flex, что то с шириной не то */
+  padding-top: 100px;
+}

@@ -1,0 +1,11 @@
+.table__heading {
+  margin: 0;
+
+  padding-top: 20px;
+  padding-left: 5px;
+  /* нет такого padding в брифе. что делать? над заголовком есть пространство и отступ от левого края в пару миллиметров*/
+
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
