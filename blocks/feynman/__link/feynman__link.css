@@ -8,3 +8,7 @@
   top: 50%;
   right: 48px;
 }
+
+.feynman__link:hover {
+  text-shadow: #2f80ed 1px 0 10px;
+}

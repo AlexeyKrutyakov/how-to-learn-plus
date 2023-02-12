@@ -10,3 +10,8 @@
 .footer__column-link:first-child {
   padding-top: 0;
 }
+
+.footer__column-link:hover {
+  transform: scale(1.05);
+  text-shadow: white 0 0 3px;
+}
