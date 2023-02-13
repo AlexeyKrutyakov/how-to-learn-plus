@@ -17,5 +17,4 @@
     src: url('../fonts/Inter/Inter-SemiBold.woff2') format('woff2'),
         url('../fonts/Inter/Inter-SemiBold.woff') format('woff');
     font-weight: 600;
-    /* semibold: https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight */
 }
