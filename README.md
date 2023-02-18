@@ -1,3 +1,13 @@
-<h1>Научиться учиться</h1>
-<h3>Проект курса "Веб-разработчик плюс" от Яндекс Практикума.</h3>
-<h4>HTML, CSS</h4>
+# Научиться учиться
+
+_Одностраничный учебный сайт программы Яндекс Практикум Веб-разработчик плюс_
+![HTML5](https://img.shields.io/badge/-HTML5-011?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-011?&logo=CSS3)
+
+## Ссылка на проект:
+
+https://github.com/arctikbear/how-to-learn-plus
+
+## _Используемые технологии:_
+
+![GIT](https://img.shields.io/badge/-GIT-011?&logo=GIT)
